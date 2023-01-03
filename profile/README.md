@@ -14,4 +14,4 @@ Click [**here**](https://github.com/Islandora/documentation/issues) to visit the
 
 * Visit our community wiki [here](https://github.com/Islandora/islandora-community/wiki). If you are joining the community for the first time, please visit and follow the instructions of the [General Onboarding](https://github.com/Islandora/islandora-community/wiki/Onboarding-Checklist#general-onboarding) section. 
 
-* Join our weekly [Open Tech Call](https://github.com/Islandora/islandora-community/wiki/Tech-Call-Meetings-2022) on Wednesdays at 1:00p.m. EST! Links to access the meeting, and minutes from past meetings are provided within the community wiki.
+* Join our weekly [Open Tech Call](https://github.com/Islandora/islandora-community/wiki/Weekly-Open-Tech-Call) on Wednesdays at 1:00p.m. EST! Links to access the meeting, and minutes from past meetings are provided within the community wiki.
