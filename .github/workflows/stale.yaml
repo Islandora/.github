@@ -18,7 +18,7 @@ jobs:
           days-before-pr-close: 14
           stale-pr-message: 'This PR is being marked as stale from inactivity and will be automatically closed in 90 days unless further action is taken. If this PR is still relevant please comment. Please also consider attending [the weekly Tech Call](https://github.com/Islandora/islandora-community/wiki/Weekly-Open-Tech-Call) to discuss the PR'
           exempt-issue-labels: 'feature request'
-          operations-per-run: 1000
+          operations-per-run: 2500
       - uses: actions/stale@5bef64f19d7facfb25b37b414482c7164d639639 #v9
         with:
           days-before-stale: 365
