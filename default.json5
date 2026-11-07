@@ -12,6 +12,16 @@
       versioning: 'loose',
     },
     {
+      matchDatasources: [
+        'repology',
+      ],
+      matchPackageNames: [
+        'alpine_*/ca-certificates',
+      ],
+      // Certificate bundle dates are routine updates, not major releases.
+      versioning: 'regex:^(?<minor>\\d+)(?:-r(?<patch>\\d+))?$',
+    },
+    {
       matchUpdateTypes: [
         'major',
       ],
